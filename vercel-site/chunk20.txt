@@ -1,0 +1,55 @@
+LuqDE7cCasxFUcV+6C1tknSYVsFcq5YS9qV3sU7oldHK2AyoUqmQg3nDez0RKXtgPp20Qn1MvaK/EXtq1od30TFqeMMfmF6xhpWq9GYkCPReygvIpcxFTv1Po495S9AY1DqFK6LgxOL8LBQ1e3OnbQOA+AlJM0g+ZN0UX2bK4Z8WQEoqMIdxM/PHGZIZXfrjT5qwl1ayKGs5V5X5G3axlfJk+f1bwiW+Hf5LopT3i5aeIiV2gQk/8f2gYwQl/UUjvLuURxzzNBXi1cp5LMkXxHkKACV1SSo7dBmOiwKv2O/ebTRZOiuDrS02XKjNQJB3BV7bbb1RB+xqO7NkubC9fVeR2Q7t1Icz3laYQ5HL40oNzsPpcaIQx0uTPAB5LflfL44zauchwLShBQgIzlxK6aElaoEKJR5yyBEAinHPVjqtTzsYd1tIh3Sz47jiaxKgPJCKosYHVGKXkW5azCd4y0imeShhCfFgUfOHnyKDJY5vzXo03MwLuNcNaK2w5obpD4q1VEB8ww7ilTIg4xEH4tG978P7wOQHpAzb0DKsbm6SpFzh/oQ2ML6mIpS+rlRgGfx8KrzDXFbl7osiiU/rvgTznA+xrUpz4ghC1pobM6UbN8TTFlecX3+5+IHEAZ4scpK4f1V432RGIpV1bykQznJODAxJVN6HjcAiDXbL7YEmWg1KtgK8CzPq/WGaznkLI2m27IHzpR1vm8BPt4L2MhbwA2jtXsQYNg+1mW6jX3nxcRbKfP255DpLU2HhtUUEMrLFDSL1NAs7YKL6ld4Gas4rLXfZ1DxbC6q+qxBqyvDXepDznlwvRyFH6rtzpGOgoaVXQPKqvsb9tG/2pPMtYMavRkfnNUNWhizXIlGnZEJk7lYJW6zlDpA47Ugd4OElDNb5t6ESP66JqopawnMAN0XZ6d4/c6EhALDT5Klm4R8meqgFZuZm+0lM0qHv26E51rKbFG3xP+Fr4sQrCxW6zcIc8mgwLNsdjK85/VTPzUAVMSChC3HVJZo1sUkTl5kzoo/TPLgi+fhcjz4LTKjxsptn2Kzi9qo14//YYVmnAzdxafhnZhIlNPAVf7Pjj5lfRinHujvv9aXOPign4Eui9dAK75gvR2XhV9w8vWJ+qkDwVYfli5tYKBcCI1AaEkta0v3hbgs0hhucuri/SCrT3gDpJjMz8paF0lzaINd8RoU3p6sMY8TyRmyNLRrf/aYn5rPtUaqesXJFPY7k7oU1GFrbnybG2hMhdiBNyHnWHF1RswwmI/CKjpxFDwZCVBgeJWHUKzk0ioG+a860eRWXV5CPYL6Z4vNgNLK4z/kCgoK/JHTvt03qVW+NUAVwildjDKmepTaqFesOFXEvdBk0V2GqE1M4MWMH8emcmkFP6p6xIybJ1LzfeBmnN/u4RtL+u3uRPTLU38nr7lCi3ql+LIsmrA0kzYE1p3o4BAry1a+/BUk5UKZnUSufMDI0NHAAgNHIWqRRicLydTIAxQOYAauF34KzvUMu/CzIqrdyNsgRrigZ6EnovJXRpHeJVSJn9ihbaYy38sWWkWG4VI1zMXuwHznBIllfwGLKezigWfF5aRTqwMvkuSuCohw7erM+rBZt8rUTY2ZhkxBwd7VHVXQQdxqGfLrNtEp406u1tG+k9Y/yjA/wu4WrAAXUjjLK5pdgbf+2Jp8xZWPRT1HXgx+YK1KYNhx7juu4Q9ycluMsA4Ks015Os4yVl/bsaUcg04gIhW2+daCfk4IaEitw0TXcZS3QR6iWZ0r+P+F9DVU9CXCViDJUMu4GqoWT10v4U58ZES8lnq8wPF3HkYDHJVrGaVuUTKbuYwVs/tTsOdZS1vTDfSjchGO2+oPzBya6wbjI5NS5oxKXXTPD5KFDfSNVskI+OAHk5zF+of09Heuv8lMz6FOPRGEdTpN/DC/OshCIApxQzd1stppaKbrYX9q7U0buYPfnzIW9GeeX4NSoZAOinWjeERsWamTg5k5EzLmJdS1rAzS+lg3Clm7PfSZlvtkgOFfaoyf5YgYj9mD5/h+JVejQV6SCHN0GWggfEkHMX8cFCSpPkH3P1w6COitP61sFFg+ZQlogUz9bOJ6V6jqbe+vQSYqLbVYPDzY0zOOlaDUIo7rPTgiWQT8vdJL4NrC6v2b0dkOHSQGKbTxCFXvYm0j6SoLGDBZFY4SW5S7F8EaoVB3m56hXMGe+6khiDqnaoozAz0aXm1DT3krtqdW9leddumwl3aLWh5Mtiy2e5reSqEM0ig/OK4HWls4Ee4vGdCAIS/gtEiRcYp0plalqGRfOH77Kjs3NPQ0hm3zBbOsLDuC0ob5Z9aJAFOK4EtRN/dmHsW1kTDwfm/q0dzIECemBOvgIqfrH50ejHuCw47HeeHar9wJhVr0AKWzacHkbEkoHbTBaY0V6StP57bivjvvEWm/26B2zmC8kIAsM3VzBRRAIA2C9PjtuWgWM74ibYfdxt58bne3ssBtgy6KUlq/k2faCyxDubt891ItZu4iWIjz6D30BQ4myhBjuFMdttsRG9Gt/JoKodSTE2ayNnlqwvFX2EGl4Qg8H9hlSSgRJlfGCQbj5ktKYqBXRLYhOYg+6kD4TOYw69b16HqaIrJUK8hLz6g2xdCn1eQMyM7ME2V3eznYp9iqXC3vVmafyQko28o2+Q8ofvKY0dGt6zlBQWPB3lbl7MoI9WY+7aB9iSon56Bzn10JSd+uZViSdcZ9ah48XJx7ezfeDvoyT+ShVSYimNelJdpL8jlHlnIcZKM6hwzYoj8OeVuGrIoJCwOIL5kovUlgqFAF1aOTc4Xp3XWP2JlHrVpTmuNB+Rxf067BmTnZ7nV16EED+d6kMiHEhH/YDFMMceJWy0z/auMwdZf/ltwJKYWC1PD7khLRqnGeeqPocpRCSFXUybPTjc0ohTBszndRYpEs0WqDy0Hmzz++iKufhePKf0hpQIbviMu4XSS3akQfpvAMySSGq8GiRwYWnfjC9o+jNYohbYAynl0J/RrYGyFsmIWwzO4Aui/vpiIm31sDbaIHb9/QFmGTaS9Ulq9uCGCHIugBrxP4O0z2i5rjk5gQ5fhkhk4P9N5HUMRM5OpE11QtkTfegSbzZLtOubncCyiAFixDtN8C9e0qC7UTpg4BewxsJ2rNid7sHgP7i/il0/NmRWTM3nyZ4ZjGFI6tZ+nKeMsSrXCXmLc6zEJA7vomLIXz9ve7zHVMmVbEe7rL5+U8mO0cV/gZNSXf0jq3CLUvkErdIyvlVzSWFC44Je35G6bWZB9pFgeqjgIxsHzKtqlrAs87U0HRafmZODvHTPAGVBT2RH0nPvjmSrSQKLrWfgJCsV3Wdrdoas3xvUe6qn6MBB3d1R6anG4us1ybES3FQGbF1nc+eCWql3yrVfsHT7jKincn7d0M/c+AtQcKv0RfbHRFiMImcKtzjgbyDMZJududMoHcOKILWDekdPShZVYzLexsJnR6Tz6eVMmhRInrjYnUDmYcBqg0Ci9uxazenlPQD+qEfr+xRVKNu33ezYB74Lkak6wJasyLtDwr7HJn2vz2serbZ7yRfAmDuEA+3XMstbLmPsbyr6LGPETB6SpIUusMkQ4WG6L8xKWyfjVMcbdIXaKm/kcr5+IYjiaYJ3MSlVhv2PUU7acefICxm8pc5khwH75tO5f6WX0sU4403qgAoFlp5eAsrrZ+Vvpjzla/WSngucBVSfzo/n0m/G5kocizohl1vtnQZSnvXi8WTkdhTyJiJHP980RYSR1gqAVTr79Y9ZZyXLn6Uq+WWL/RxMe5fX2/71zVN28s5Ts8H1ZT2sN/w/N2cF6wsPqdKpHfIgmgfMSc+HFXO1swDvm1PvUsbygr8hXAMPHvP20pjjm1AAAA=" alt="Фиксация хвойных зимой" loading="lazy"><div class="usage-name">Хвойные зимой</div></div>
+  </div>
+ </div>
+</section>
+
+<section class="section">
+ <div class="container panel">
+  <h2 class="section-title">Преимущества</h2>
+  <div class="benefits">
+   <div class="benefit"><strong>Быстро</strong><span>Без узлов и лишней возни с верёвкой.</span></div>
+   <div class="benefit"><strong>Бережно</strong><span>Эластичная фиксация для живого растения.</span></div>
+   <div class="benefit"><strong>Аккуратно</strong><span>Помогает сохранить ухоженный внешний вид сада.</span></div>
+   <div class="benefit"><strong>5 размеров</strong><span>Можно подобрать длину под конкретную задачу.</span></div>
+  </div>
+ </div>
+</section>
+<section class="section" id="reviews">
+ <div class="container panel">
+  <h2 class="section-title">Отзывы покупателей</h2>
+  <div class="reviews">
+   <div class="review"><div class="review-top"><div class="review-name">Екатерина</div><div class="stars">★★★★★</div></div><p>«Стяжки супер. Подвязала гортензии — очень удобно и быстро.»</p></div>
+   <div class="review"><div class="review-top"><div class="review-name">Ольга</div><div class="stars">★★★★★</div></div><p>«Незаменимая вещь. Быстро стягиваешь растение, крючки с двух сторон.»</p></div>
+  </div>
+ </div>
+</section>
+<section class="section" id="faq">
+ <div class="container panel">
+  <h2 class="section-title">Вопросы и ответы</h2>
+  <details open><summary>Как выбрать размер для туи?</summary><p>Ориентируйтесь на объём кроны и количество витков. Для средних хвойных чаще выбирают 5 м, для более высокой и объёмной кроны — 7 м.</p></details>
+  <details><summary>Можно ли использовать для кустов?</summary><p>Да. Для небольших кустов подходят 0,6 и 1,5 м, а для более объёмных — 3 м.</p></details>
+  <details><summary>Нужно ли сильно натягивать стяжку?</summary><p>Нет. Стяжку не нужно затягивать до предела — задача мягко собрать и поддержать растение.</p></details>
+ </div>
+</section>
+<footer class="footer">
+ <div class="container footer-inner">
+  <div><img class="footer-logo" src="data:image/webp;base64,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" alt="Садовые Инновации"><p>Практичные решения для красивого и ухоженного сада.</p></div>
+  <div><h4>Каталог</h4><p>Эластичные стяжки<br>Премиум стяжки<br>Прочные стяжки<br>Каркас и чехол</p></div>
+  <div><h4>Полезное</h4><p>Выбрать размер<br>Как использовать<br>Отзывы<br>Вопросы и ответы</p></div>
+ </div>
+</footer>
+
+<script>
+(function(){
+ const root=document.querySelector('.ba-carousel'); if(!root) return;
+ const slides=[...root.querySelectorAll('.ba-slide')], dots=[...root.querySelectorAll('.ba-dot')];
+ const current=document.getElementById('baCurrent'), total=document.getElementById('baTotal'); let index=0,startX=null; total.textContent=slides.length;
+ function show(i){index=(i+slides.length)%slides.length;slides.forEach((s,n)=>s.classList.toggle('active',n===index));dots.forEach((d,n)=>d.classList.toggle('active',n===index));current.textContent=index+1;}
+ root.querySelector('.ba-prev').addEventListener('click',()=>show(index-1)); root.querySelector('.ba-next').addEventListener('click',()=>show(index+1)); dots.forEach((d,n)=>d.addEventListener('click',()=>show(n)));
+ root.addEventListener('keydown',e=>{if(e.key==='ArrowLeft')show(index-1);if(e.key==='ArrowRight')show(index+1)}); root.setAttribute('tabindex','0');
+ root.addEventListener('touchstart',e=>{startX=e.touches[0].clientX},{passive:true}); root.addEventListener('touchend',e=>{if(startX===null)return;const dx=e.changedTouches[0].clientX-startX;if(Math.abs(dx)>45)show(index+(dx<0?1:-1));startX=null},{passive:true});
+})();
+</script>
+
+</body>
+</html>
