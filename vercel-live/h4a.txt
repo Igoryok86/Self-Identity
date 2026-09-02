@@ -1,0 +1,51 @@
+<img src="data:image/webp;base64,UklGRnQCAABXRUJQVlA4IGgCAADwEACdASpdAD4AP0GEuFUvqKUjMVseifAoCWpocFfcz0PqQCqwI7AGwuvZtWvItR4UvVpdGayIxiOy0z0ADytWfEX1FxoRpMkPj6Zj0+UnNibYp8r1Ddfu403DDIE3FFxKQ9xI2o0ugfuSMMfR4SO42rtLvqcub4P7EOWW52gZxlwqzOBw3pfUI3mC3DNR4iIA/vTKpeo6KqIDvRGQngYnVtJCerjZw7lYfFJy5Z8ns/DnPgg+kQGkTvagjt/jcGKAmWNqYVzCGlS6KLZkgNxS3w/5n1PTAM1pS5N9LKMYUSIBE58dvFzFWZ2f6uAKA/Ruq0u5yK4tF4+JB/90J3YDpakAEJGyXP/1Yu61eJRYs54zO3sE9W8EAA5zuK52BEN44H1gbEZ3PnldIIEI6o5uxgiRE/ipPw0t+QqCVaeSdmXyu8MfZQbJPQOhLROd73Y/mn2HFQB/hXwq4woCH7zjBShTu6FlV0WN9bt88NlaFLlTn8zgeiqdDHbpmyfmuCiXDEFx63ZhVZJcUyz413BL8NHujyP932RMbNu9QlcMW2qldaGOIUBMk0n0+xgonvxC7mXP5jNidPiLbTIVd/mqaPoNDsblBM7pX9i33L9pc81xBQH47ZR+rg3oMps8Rti6XmhQ1TCemEdMUgcNmqZ6qK3KJng6xJy5fV4e+4WKjjypf2IfpDbEfWvEregfdiL8PMlrBx4gca3Acfxsm3WDyu+Iomz1mn/6A0osgCpfblivu6PnSfUbvSPBfvS+2rgr7e+FGhBdfQjL07AKCd0cdqvmeogWLUbVrNFKG9K/7+fqB+IUKoAA" alt="Небольшие ветви и кусты"></div>
+      <div class="choose-body">
+        <div class="length-pill">Длина - 0,6 м</div>
+        <h3>Небольшие ветви и кусты</h3>
+        <p>Подходит для небольших ветвей, садовых кустов, роз и саженцев.</p>
+        <a href="#sizes" class="card-btn" onclick="return false">Посмотреть товар</a>
+      </div>
+    </article>
+    <article class="choose-card">
+      <div class="example-tag">Пример использования</div>
+      <div class="choose-img"><img src="data:image/webp;base64,UklGRsICAABXRUJQVlA4ILYCAABQEQCdASpVAD4AP02WvlawqyYksBaqAhApiWwAyFSgyoDi+/Ji7RymyW42xothLv1LRA/6WqPYT4F4tS/m1AFcuKLQdiJH4oYuoyOuqbRwaM6A3+wLIh/clNQ6sKBWGwVaVrmhQZbD//ZXNbM8PPOvzWa4sNkPXLfV9DkizItDveEbCmWhgRURz5/LnxXF0xoUM4AA/viym1PibGKkQBgdHxd7odYRY9yB5mOCwRSxlssrj5UjX9yFF77paAwLxtTczddlgi/sDiNdkdmRASxlULSTcldudeT+fB9SrjprSHKmV8AiZF8BQ6ZjL70yub0X9/2Gl96SYZIZ96Bn1Z6+xtoR6ft/yYoUenigydhUVLACrGdUTXnVtaMnUaHHsMCsI7NbIQYe01po1mml2mCmkB7ThhnLIJe6DqbpZYq3xl+pP2uOGna99vl5I6KVHue5bNnhcjlkD3rNJKl5Q8tuUgZ/fYLYD3BRuiA8p8pZYxlkRSZRnPpWImUdxhvccfTuAa56iV+NBrL9QZU+7xm59/tbriwvJytD3iSNY258nvwGafEuwCaHBJ6PX+s8LO8aAt1vpQk2uOul5tUkkhAxVdEDQDBcNUU7buHQByt/IisuWt/2t5Icsgzf4/8VYzAZzjmsdMPESVREPqQ9wjkVnDX0Af4o3gro+u8cDpzv4GkSeJ1PEmvmj+H1MecexOsW6l723nOzNL7A1hUjWaESDaqiv3u7/mVFFiHShxL65FkdgxvTI/ZxjkLuZY7V/nh9RptosisEwAjiK2FYX79sTGxT0K9Ye8Gy2Wm2ADtP57NCStDziZBEAmkylAx+oMfMMu3sCRnbB9Io0Do7p4viPFqKqPK/AmCLTBSBoB9m5G4EGXujmYZ/nO5OCqFAfoPOFGaaQ9HAaBG+I+JvGZ9d63KVAAAA" alt="Кусты и молодые деревья"></div>
+      <div class="choose-body">
+        <div class="length-pill">Длина - 1,5 м</div>
+        <h3>Кусты и молодые деревья</h3>
+        <p>Для молодых деревьев, декоративных кустарников и растений средней высоты.</p>
+        <a href="#sizes" class="card-btn" onclick="return false">Посмотреть товар</a>
+      </div>
+    </article>
+    <article class="choose-card">
+      <div class="example-tag">Пример использования</div>
+      <div class="choose-img"><img src="data:image/webp;base64,UklGRjICAABXRUJQVlA4ICYCAABQEACdASpVAD4AP02SuVUwqqWkLruc6hApiWQAygB+VtuaNRp/KuD/lvuipcm5A77el6TnxbND+dxvEmNlQHFqc47jDujlbYMyIDCS1A7My7BSbFZ8JFDTAmgy/A51QX+OcIVwOCI/OWxhbo6QLhi64yodY1S/MA0a8hhSARHV8k20dv4smSGn6CsAAP75bgXMT2Y6HCCHm8hktdc/sphCpQrWmJJ4OZG5t/jgrQngWekBOyZLlJKxaktaSp2BnH43LKZRDX7+mbWr5MmmH2uwN8juH2RDE+x/3FQNEzGGHQeutEVTS7VFu59I9nCYCzzBOzJcr0mJdBNnwDkRAtPeYXr9iaXgKnk6P9FFrxUdggK8yAN4IIy9FOBVxRngR92QEw/mQaMwwEDXSucta6OEXdHQ8hiWZ0Y/eFqxzE12J1QKi5BmI09MW9NDsvICia3UZ185o/d91N1f6uI313xCUVyIOYFq4ezq1qDSGbzn+2d3leuSxAt2GkkobRVc18KYNOZhIo+zOadpZhd2Y5N7nZXOpO9q4ANW0QesUTKTQjrYm9VwIwl2olybeRAm30+2ACqDpKhecP0CbKTW79eD6Y0XMCDIev7CKfgEJZpHJNFPja9/OyttbUrpYuCq0bsoYjfOqMKAzLtoGEOKmRkDFMeYZe/3BtvoNsKg3lU6A7/tJ6vw8FskpkEuTRzVGsDSBz4ifBKX5xpf6njBOrJHW/dagAAA" alt="Компактные хвойные"></div>
+      <div class="choose-body">
+        <div class="length-pill">Длина - 3 м</div>
+        <h3>Компактные хвойные</h3>
+        <p>Для подвязки компактных хвойных растений, крупных кустов и плотной кроны.</p>
+        <a href="#sizes" class="card-btn" onclick="return false">Посмотреть товар</a>
+      </div>
+    </article>
+    <article class="choose-card">
+      <div class="example-tag">Пример использования</div>
+      <div class="choose-img"><img src="data:image/webp;base64,UklGRhYCAABXRUJQVlA4IAoCAADwDwCdASpVAD4AP0WKtlUwKaSjM/iMcgAoiWQAyjyBfYD4CrY3Sze43XwBZQoVfU6WktEai8aEelC4y8efgOKFfaRY/tKZ2fHIPJsbxuckeZLSaBB7RWvtRKbY/71l1itbkPb9ftdU6j6jtwpT60axm5VBEPvBMVGv/Aq2DT2PFXCMa4WgLjMAAP75bL6LJeQbm+pRYQYvoaeZY2KCfzqFyoaSYVSqtVsMe8P08il9XNVwUGko5zRiAX7Nem2trY1bclNiEbBafGNttSlyNWY6Ae6tdpwxJDm5Vl9sOXenampCe6w284Do1/vjvKVCBdlbhr/d8wqE/0fOGhAyZDGmGuPoGoWBgsCtf/7nIqpMwt0YaHcFcvSZDGLiCSqKPKYa1MGRGxAsNLzJv2x5UiFeE61OoAdt0ZbzyiBQ1Ftfwt2koGfJf0tF8+IkWfuELIZdp4j0vl2U2xSGgTeuimvEW/iedaXUnl9XQMtc7tNY5TxBjOmQgmrzDj+0+m49f5oypS34fy6mRV04DEVNh0sZkaqLXsk06JVOQoL9JWNdK01JMPXm4o1VgcNkycK3Rt/wiRs6RNgqBCR86cK0e+D0ERZtwWVBareuTHXZgYuELN/7gqAKk4CaJ/a3z5h7GBOnzes2vNyp/Zg5pWwaOl84GfuLP7jO8vCg98EM+yVUceXxLV5Pqs04AAA=" alt="Средние туи"></div>
+      <div class="choose-body">
+        <div class="length-pill">Длина - 5 м</div>
+        <h3>Средние туи</h3>
+        <p>Для средних по высоте хвойных растений и туй.</p>
+        <a href="#sizes" class="card-btn" onclick="return false">Посмотреть товар</a>
+      </div>
+    </article>
+    <article class="choose-card">
+      <div class="example-tag">Пример использования</div>
+      <div class="choose-img"><img src="data:image/webp;base64,UklGRgYCAABXRUJQVlA4IPoBAADwDwCdASpVAD4AP02SvlgwqaYjsBFdUhApiWIAyniBfYD1iqH4I+l0MVK1hRb6whvjF77pjR1UJL2H3k3XryJfIS8e8KVvlLqmMKMiGLSqAqkebBKN9xleRrY+xhVdlSEelrpiwyizEyrYzHdxemI+xF0o5btwm5Cx3/oimtLz6C6ARysiji/AAP73Bm0495RUs9yFzTOxRvkCRPSnjXOI0ZVMCgFy4N/WOXVrYfnyUaiAIuBWxpsDRZ3kcwBJA7lBVfsTwclcdW/iWN4OG7xzZ8hbR0NQbirFOSWOGsZrbg9oqt58NWuRfGeCgBgwUQ0/qtsKLqKxLiiN+nCUS/oWAFAKDnKCa03wJ67eVKV3yYkXyWaV/omBi3mwpfKcLhDa6MFWNxosn5hbqgRhMCpFsSlEkcqE6OIy2PIbtqoBHRQjD4EiiFIdoVeyUwpx507dqapbZwPUclWIh9TBwfU3JIGfqZAHaDwCP3BoG1YOfWEfswqxmSrpfeWVT/Fix13WWov+kyH3GwE8KZsw92Z7DRR5kvccaC+qBjryXIk+EZEjh4R7VtKb9+3h8yEecDxmv6Inqjuwq2H1zaECRLIMyy3iETG7W32dDPljblYE6CPtgUmVKSFbaikwG9MbOA18GNloghPqG+cw83BIW0l0angOfQZnDihAAA==" alt="Высокие хвойные"></div>
+      <div class="choose-body">
+        <div class="length-pill">Длина - 7 м</div>
+        <h3>Высокие хвойные</h3>
+        <p>Для высоких хвойных растений и крупной кроны.</p>
+        <a href="#sizes" class="card-btn" onclick="return false">Посмотреть товар</a>
+      </div>
+    </article></div>
+ </div>
+</section>
+<section class="section
