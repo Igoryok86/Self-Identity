@@ -1,0 +1,12 @@
+l'); if(!root) return;
+ const slides=[...root.querySelectorAll('.ba-slide')], dots=[...root.querySelectorAll('.ba-dot')];
+ const current=document.getElementById('baCurrent'), total=document.getElementById('baTotal'); let index=0,startX=null; total.textContent=slides.length;
+ function show(i){index=(i+slides.length)%slides.length;slides.forEach((s,n)=>s.classList.toggle('active',n===index));dots.forEach((d,n)=>d.classList.toggle('active',n===index));current.textContent=index+1;}
+ root.querySelector('.ba-prev').addEventListener('click',()=>show(index-1)); root.querySelector('.ba-next').addEventListener('click',()=>show(index+1)); dots.forEach((d,n)=>d.addEventListener('click',()=>show(n)));
+ root.addEventListener('keydown',e=>{if(e.key==='ArrowLeft')show(index-1);if(e.key==='ArrowRight')show(index+1)}); root.setAttribute('tabindex','0');
+ root.addEventListener('touchstart',e=>{startX=e.touches[0].clientX},{passive:true}); root.addEventListener('touchend',e=>{if(startX===null)return;const dx=e.changedTouches[0].clientX-startX;if(Math.abs(dx)>45)show(index+(dx<0?1:-1));startX=null},{passive:true});
+})();
+</script>
+
+</body>
+</html>
