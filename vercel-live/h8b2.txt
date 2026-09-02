@@ -1,0 +1,24 @@
+ame">Екатерина</div><div class="stars">★★★★★</div></div><p>«Стяжки супер. Подвязала гортензии — очень удобно и быстро.»</p></div>
+   <div class="review"><div class="review-top"><div class="review-name">Ольга</div><div class="stars">★★★★★</div></div><p>«Незаменимая вещь. Быстро стягиваешь растение, крючки с двух сторон.»</p></div>
+  </div>
+ </div>
+</section>
+<section class="section" id="faq">
+ <div class="container panel">
+  <h2 class="section-title">Вопросы и ответы</h2>
+  <details open><summary>Как выбрать размер для туи?</summary><p>Ориентируйтесь на объём кроны и количество витков. Для средних хвойных чаще выбирают 5 м, для более высокой и объёмной кроны — 7 м.</p></details>
+  <details><summary>Можно ли использовать для кустов?</summary><p>Да. Для небольших кустов подходят 0,6 и 1,5 м, а для более объёмных — 3 м.</p></details>
+  <details><summary>Нужно ли сильно натягивать стяжку?</summary><p>Нет. Стяжку не нужно затягивать до предела — задача мягко собрать и поддержать растение.</p></details>
+ </div>
+</section>
+<footer class="footer">
+ <div class="container footer-inner">
+  <div><img class="footer-logo" src="data:image/webp;base64,UklGRtIDAABXRUJQVlA4IMYDAACQFwCdASpNAFAAPxFyq1CsJyOiszZuYYAiCWwAxQwhUgp94Bdl70W7c/nffOl30PejH5EYnW4mtLDtI7bsUnTqC96rfQ6RRrJ9vMZ3uoOBGNAPNOVxKWfJrF1cf/I2RAJXDnSzH+KDjOGJ7U1iqkla6L0n3tmpGvxUaNGZjqIFvn1v/UIRCIw9wnYl2WHTzSDaPcKMmmVPV+i5+73mGHK3Qx8ZNAClcrRg5OmgHI/LC7lgpOhcvhK/E6dhdzIviStxYE74AAD+/VE2YPbqOVeN+eAUKaHJXO8TrBYzZHfR7Je1oZQdbsmILL+56fbJSBqUwASWnY6YZ6x9HE1myKm8pNA9fQXN8C5Pn+PC2v9LgeB45BDh+viRLgb3QTIL5yweQMhVznZANvBZJdhSG7+OU58Du+T/dHcpdWI5G988SDv6cRldSBSY6AHVYxyacKXgSp/HSCsGt5t9//s0L0jVUDo1NLasq0AM6QWOsLnuK5i378Bw0dMxOXoup6I+O0hdc3py8fUshLGgm1ig24IJcmimYXjYMZ4DVUSq3PfdejylMrSBZk7JBXi3mld4QnzH9wrdmzJtqs+7lyM0omxhMCdHozIQRzky7xwI4oK38m+ips35YQdO0/GNwA8coHCgEJk2DHTY7UzHtvm9++6t+HR56RrNIhOV2SRg4WELNBii0yImlsuCAan/uLgG8DJMuIiu14SzTMWdhDMRCAVcav10NlacEwo8ZoPdfZW0b9bD55bwU+UL/HxkojGdJ3MCGT239FEL2cTPxx1mxvxH3oCTIonU2+wqbKKuAJO3f17V6/9ueHDCYcjvCrCMC1UXgMJrKgaPjPosopqjfwo8hUWuR8CNWBLqMIM7iQMxKRVzNAbG8JYEp2MTYhvLDmNTBffA23MypqlbhJ9J8mtMOoNsYN+LO+nf1Q+8DGlEPsIpOvCIZRb8rV3NkU3k+ue+5csRssGs0KX+wuYwl8tzjtdVvKERjPoe93JGrXZqcmVWTF07bvzpZQyGLkKkDjBOo9lt9DQemsaxzS6a+aivwh1W8kxydSBVUrUjHtUSQ9jJ19cw7WdFIQLWIcKi7b764MWDYSIyaGKJ/sgxeusapMky/HnZDCdGR5GQOooraY+iDXvQh4mOit1Ivr9IwKkCY5mTvdEO1hm8lEZD1FOyKFHg6r3LvL8/bHFSyTGXu8yhWHYz30KeDy/GPlDJnd2LTVSAE30t+JapavrhvpQ0hiV/NwXgDaqnmB1nv/CB3no5cX9IuQjTTQIPQNcWeHFz2hgAAAA=" alt="Садовые Инновации"><p>Практичные решения для красивого и ухоженного сада.</p></div>
+  <div><h4>Каталог</h4><p>Эластичные стяжки<br>Премиум стяжки<br>Прочные стяжки<br>Каркас и чехол</p></div>
+  <div><h4>Полезное</h4><p>Выбрать размер<br>Как использовать<br>Отзывы<br>Вопросы и ответы</p></div>
+ </div>
+</footer>
+
+<script>
+(function(){
+ const root=document.querySelector('.ba-carouse
